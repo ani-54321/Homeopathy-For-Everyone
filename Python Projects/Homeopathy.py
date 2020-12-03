@@ -455,21 +455,3 @@ global tinf4
 tinf4 = Frame(t, height=50, width=90, bg="grey", borderwidth=3, relief=SUNKEN, padx=20, pady=20)
 
 t.config(menu=menu)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
