@@ -9,5 +9,5 @@ Data for the Project :
 
 Design : 
 	1.	Design is done for showcasing features of the project.
-      2.      It is designed and made using Tkinter library in python.
+        2.      It is designed and made using Tkinter library in python.
 	
