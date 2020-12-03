@@ -1,6 +1,8 @@
 # Homeopathy-For-Everyone
 Anyone can use it and can find accurate medicine/s symptom wise
 
+It is made using Tkinter library in python.
+
 Domain : Healthcare
 
 Features :
